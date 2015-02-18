@@ -5,6 +5,8 @@ tagline: Forging elite fitness
 ---
 {% include JB/setup %}
 
+![KettleBell] (http://instagram.com/p/n022NOsp3d/?modal=true)
+
 # CrossFit Tyr
 
 CrossFit Tyr is a CrossFit affiliate that is run by the Cadets of the Norwegian Military Academy.
